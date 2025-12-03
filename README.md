@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">✨ Mustafa Elzoghby ✨</h1>
 
-<!--
-**mustafamahmoud8/mustafamahmoud8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💙 Flutter Engineer &nbsp;|&nbsp; ⚡ Fullstack Web Developer  
+  <br/>
+  building fast stable scalable apps with clean architecture and smooth user experience  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About  
+i build modern mobile apps for android ios and web  
+i create fullstack systems ready for production  
+i focus on clean architecture fast delivery and high performance  
+i write code that scales not code that breaks  
+
+---
+
+## 🚀 Skills  
+**mobile**  
+📱 Flutter Dart  
+🔧 Bloc Cubit Provider Riverpod  
+🔥 Firebase Dio Hive Shared Prefs  
+
+**web**  
+🌐 React NextJS  
+⚙️ Node Express REST APIs JWT  
+🗄 Mongo MySQL  
+
+**tools**  
+🛠 Git Github Docker CICD Testing Crashlytics  
+
+---
+
+## 📌 Featured Projects  
+
+### 📱 Islami App  
+quran audio offline mode clean reader and smooth ui  
+tech flutter provider shared prefs  
+
+### 📰 News App  
+news filtering fast loading smooth infinite scroll  
+tech flutter bloc mvvm  
+
+### 🎬 Movie App  
+search optimized offline favorites modular architecture  
+tech flutter cubit hive tmdb  
+
+### 📍 Evently  
+real time events maps geolocation firestore live updates  
+tech flutter firebase maps  
+
+---
+
+## 📬 Contact  
+🌐 Portfolio  
+https://my-portfolio1o.netlify.app  
+
+💼 LinkedIn  
+add your linkedin url  
+
+📧 Email  
+mustafaelzoghby7@gmail.com  
