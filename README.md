@@ -166,19 +166,18 @@ My goal is to build products that impact millions of users and contribute to inn
 
 📫 Contact
 
-📧 Email
-mustafaelzoghby7@gmail.com
+Email: mustafaelzoghby7@gmail.com
 
-📱 Phone
-+20 1093421310
+Phone: +20 1093421310
 
-💼 LinkedIn
-linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
+LinkedIn:
+https://linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
 
-🌐 Portfolio
-mustafa-elzoghby.netlify.app
+Portfolio:
+https://mustafa-elzoghby.netlify.app
 
-📍 Egypt
+Location:
+Egypt
 
 ---
 
