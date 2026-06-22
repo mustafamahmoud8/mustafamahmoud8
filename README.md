@@ -2,137 +2,140 @@
 
 Software Engineer | Full Stack Developer | Flutter Developer
 
-«Building scalable applications, intelligent systems, and impactful digital experiences.»
+«Building Scalable Applications & Intelligent Systems»
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mustafamahmoud8&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>---
+---
 
 🚀 About Me
 
-I'm a Software Engineer passionate about creating software that solves real-world problems.
+Software Engineer with practical experience in Mobile Development, Full Stack Development, Backend Engineering, and AI-Powered Applications.
 
-My journey started with Front-End Development, evolved into Mobile Development with Flutter, expanded into Full Stack Engineering, and now includes AI-Powered Systems and Intelligent Applications.
+I enjoy transforming ideas into production-ready products and building software that combines performance, scalability, maintainability, and exceptional user experience.
 
-I enjoy transforming ideas into scalable products through clean architecture, modern technologies, and user-focused design.
-
----
-
-🎯 What I Bring
-
-✔ Cross-Platform Mobile Development
-
-✔ Full Stack Web Development
-
-✔ Backend API Development
-
-✔ Database Design & Optimization
-
-✔ AI Integration & Recommendation Systems
-
-✔ Clean Architecture & Scalable Systems
-
-✔ Team Leadership & Project Delivery
+Currently focused on developing modern applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, SQL Server, and AI technologies.
 
 ---
 
-⚡ Tech Arsenal
+🔥 Current Focus
 
-Mobile
-
-Flutter • Dart • Firebase
-
-Bloc • Cubit • Provider • Riverpod
-
-Hive • SharedPreferences
-
-Google Maps • Geolocation
-
-Frontend
-
-React.js
-
-Next.js
-
-JavaScript
-
-TypeScript
-
-HTML5
-
-CSS3
-
-Tailwind CSS
-
-Bootstrap
-
-Backend
-
-Node.js
-
-Express.js
-
-ASP.NET Core
-
-REST APIs
-
-JWT Authentication
-
-Socket.IO
-
-Swagger
-
-Databases
-
-MongoDB
-
-SQL Server
-
-MySQL
-
-Firebase Firestore
-
-Tools
-
-Git
-
-GitHub
-
-Docker
-
-Postman
-
-Figma
-
-VS Code
+- AI-Powered Applications
+- Flutter Development
+- Full Stack Development
+- Backend Engineering
+- System Design
+- Clean Architecture
 
 ---
 
-🏆 Flagship Project
+🛠 Tech Stack
+
+📱 Mobile Development
+
+- Flutter
+- Dart
+- Firebase
+- Bloc
+- Cubit
+- Provider
+- Riverpod
+- Hive
+- SharedPreferences
+
+🌐 Frontend Development
+
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+⚙ Backend Development
+
+- Node.js
+- Express.js
+- ASP.NET Core
+- REST APIs
+- JWT Authentication
+- Socket.IO
+- Swagger
+
+🗄 Databases
+
+- MongoDB
+- SQL Server
+- MySQL
+- Firebase Firestore
+
+🔧 Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Figma
+- VS Code
+
+---
+
+🏆 Professional Highlights
+
+- Team Leader of Outing App Graduation Project
+- Certified by ITI, MCIT Egypt, Udacity, and Route Academy
+- Experienced in Mobile Development, Full Stack Development, and Backend Engineering
+- Built applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, and SQL Server
+- Strong understanding of Clean Architecture, REST APIs, and Scalable System Design
+- Passionate about AI Integration and Modern Software Engineering Practices
+
+---
+
+🚀 Featured Project
 
 Outing App
 
 AI-Powered Leisure Planning System
 
-A smart platform that helps users:
+A smart platform that helps users discover places, manage budgets, explore offers, and generate intelligent outing plans using AI-powered recommendations.
 
-- Discover nearby places
-- Manage outing budgets
-- Explore personalized offers
-- Generate intelligent day plans
-- Receive AI-powered recommendations
+Key Features
 
-My Role
+- AI Recommendations
+- Smart Budget Planning
+- Place Discovery System
+- Real-Time Community Features
+- Integrated AI Assistant
+- Smart Daily Trip Generation
+- Location & Maps Integration
 
-- Team Leader
-- Mobile Developer
-- Frontend Developer
-- Architecture Design
-- Deployment & Integration
-
-Stack
+Technologies
 
 Flutter • Node.js • MongoDB • Socket.IO • Google Maps • Groq AI
+
+---
+
+📌 Featured Repositories
+
+🚀 Outing App
+
+AI-Powered Leisure Planning System
+
+📅 Evently
+
+Event Management Application
+
+🎬 Movie App
+
+Clean Architecture Flutter Application
+
+📰 News App
+
+News Aggregation Platform
+
+📖 Islami App
+
+Islamic Mobile Application
 
 ---
 
@@ -155,27 +158,13 @@ Route Academy
 
 ---
 
-🌟 Professional Highlights
-
-🏅 Team Leader – Outing App Graduation Project
-
-🏅 Certified by ITI, MCIT Egypt, Udacity, and Route Academy
-
-🏅 Experienced in Flutter, React.js, Node.js, ASP.NET Core, and MongoDB
-
-🏅 Strong understanding of Clean Architecture and System Design
-
-🏅 Passionate about AI-Powered Solutions and Modern Software Engineering
-
----
-
 🎯 Career Vision
 
 My goal is to build products that impact millions of users and contribute to innovative engineering teams working on scalable software and intelligent systems.
 
 ---
 
-🤝 Let's Connect
+📫 Contact
 
 📧 Email
 mustafaelzoghby7@gmail.com
