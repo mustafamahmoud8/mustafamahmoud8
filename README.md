@@ -1,141 +1,149 @@
-<div align="center">Mustafa Elzoghby
+👨‍💻 Mustafa Elzoghby
 
-Software Engineer • Full Stack Developer • Flutter Developer
+Software Engineer | Full Stack Developer | Flutter Developer
 
-Building scalable software solutions, modern mobile applications, and intelligent systems.
+«Building scalable applications, intelligent systems, and impactful digital experiences.»
 
-"Portfolio" (https://mustafa-elzoghby.netlify.app) • "LinkedIn" (https://www.linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9) • "Email" (mailto:mustafaelzoghby7@gmail.com)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mustafamahmoud8&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>---
 
-</div>---
+🚀 About Me
 
-Who Am I
+I'm a Software Engineer passionate about creating software that solves real-world problems.
 
-Software Engineer with practical experience in Mobile Development, Full Stack Development, Backend Engineering, and AI-Powered Applications.
+My journey started with Front-End Development, evolved into Mobile Development with Flutter, expanded into Full Stack Engineering, and now includes AI-Powered Systems and Intelligent Applications.
 
-I enjoy transforming ideas into production-ready products and building software that combines performance, scalability, maintainability, and exceptional user experience.
-
-Currently focused on creating modern applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, SQL Server, and AI technologies.
-
----
-
-Technical Expertise
-
-Mobile Development
-
-- Flutter
-- Dart
-- Firebase
-- Bloc
-- Cubit
-- Provider
-- Riverpod
-- Hive
-- SharedPreferences
-- Google Maps
-- Geolocation
+I enjoy transforming ideas into scalable products through clean architecture, modern technologies, and user-focused design.
 
 ---
 
-Frontend Engineering
+🎯 What I Bring
 
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+✔ Cross-Platform Mobile Development
 
----
+✔ Full Stack Web Development
 
-Backend Engineering
+✔ Backend API Development
 
-- Node.js
-- Express.js
-- ASP.NET Core
-- REST APIs
-- JWT Authentication
-- Socket.IO
-- Swagger
+✔ Database Design & Optimization
+
+✔ AI Integration & Recommendation Systems
+
+✔ Clean Architecture & Scalable Systems
+
+✔ Team Leadership & Project Delivery
 
 ---
 
-Database Systems
+⚡ Tech Arsenal
 
-- MongoDB
-- SQL Server
-- MySQL
-- Firebase Firestore
-- Database Design
-- Query Optimization
+Mobile
+
+Flutter • Dart • Firebase
+
+Bloc • Cubit • Provider • Riverpod
+
+Hive • SharedPreferences
+
+Google Maps • Geolocation
+
+Frontend
+
+React.js
+
+Next.js
+
+JavaScript
+
+TypeScript
+
+HTML5
+
+CSS3
+
+Tailwind CSS
+
+Bootstrap
+
+Backend
+
+Node.js
+
+Express.js
+
+ASP.NET Core
+
+REST APIs
+
+JWT Authentication
+
+Socket.IO
+
+Swagger
+
+Databases
+
+MongoDB
+
+SQL Server
+
+MySQL
+
+Firebase Firestore
+
+Tools
+
+Git
+
+GitHub
+
+Docker
+
+Postman
+
+Figma
+
+VS Code
 
 ---
 
-Software Engineering
-
-- Clean Architecture
-- SOLID Principles
-- Design Patterns
-- Agile Development
-- Git Workflow
-- Performance Optimization
-- Problem Solving
-- Scalable System Design
-
----
-
-Professional Highlights
-
-- Team Leader of Outing App Graduation Project
-- Certified by ITI, MCIT Egypt, Udacity, and Route Academy
-- Experienced in Mobile Development, Full Stack Development, and Backend Engineering
-- Built applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, and SQL Server
-- Strong understanding of Clean Architecture, REST APIs, and Scalable System Design
-- Passionate about AI Integration and Modern Software Engineering Practices
-
----
-
-Featured Project
+🏆 Flagship Project
 
 Outing App
 
-AI Powered Leisure Planning System
+AI-Powered Leisure Planning System
 
-A smart platform that helps users discover places, manage budgets, explore offers, and generate intelligent outing plans using AI-powered recommendations.
+A smart platform that helps users:
 
-Key Features
+- Discover nearby places
+- Manage outing budgets
+- Explore personalized offers
+- Generate intelligent day plans
+- Receive AI-powered recommendations
 
-- AI-Powered Recommendations
-- Smart Budget Planning
-- Place Discovery System
-- Real-Time Community Features
-- Integrated AI Assistant
-- Smart Daily Trip Generation
-- Location & Maps Integration
-
-My Responsibilities
+My Role
 
 - Team Leader
-- Mobile Development
-- Frontend Development
-- System Architecture
+- Mobile Developer
+- Frontend Developer
+- Architecture Design
 - Deployment & Integration
 
-Technologies
+Stack
 
 Flutter • Node.js • MongoDB • Socket.IO • Google Maps • Groq AI
 
 ---
 
-Certifications
+🎓 Certifications
 
 Information Technology Institute (ITI)
 
 - Front-End & Cross Platform Mobile Development Track (2024–2025)
 - Flutter Development Training (2023)
-- MERN Stack Development Training (2022)
-- PHP Development Stack Training (2022)
+- MERN Stack Development (2022)
+- PHP Development Stack (2022)
 
 MCIT Egypt & Udacity
 
@@ -147,28 +155,42 @@ Route Academy
 
 ---
 
-Career Objective
+🌟 Professional Highlights
 
-Seeking opportunities where I can contribute to impactful products, grow as a Software Engineer, and work on challenging problems involving Mobile Applications, Backend Systems, Full Stack Development, and AI-Powered Solutions.
+🏅 Team Leader – Outing App Graduation Project
+
+🏅 Certified by ITI, MCIT Egypt, Udacity, and Route Academy
+
+🏅 Experienced in Flutter, React.js, Node.js, ASP.NET Core, and MongoDB
+
+🏅 Strong understanding of Clean Architecture and System Design
+
+🏅 Passionate about AI-Powered Solutions and Modern Software Engineering
 
 ---
 
-Contact
+🎯 Career Vision
 
-📧 mustafaelzoghby7@gmail.com
+My goal is to build products that impact millions of users and contribute to innovative engineering teams working on scalable software and intelligent systems.
 
-📱 +20 109 342 1310
+---
+
+🤝 Let's Connect
+
+📧 Email
+mustafaelzoghby7@gmail.com
+
+📱 Phone
++20 1093421310
 
 💼 LinkedIn
-https://www.linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
+linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
 
 🌐 Portfolio
-https://mustafa-elzoghby.netlify.app
+mustafa-elzoghby.netlify.app
 
 📍 Egypt
 
 ---
 
-<div align="center">Building impactful software one project at a time
-
-</div>
+⭐ Building software that creates real impact
