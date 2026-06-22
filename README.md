@@ -58,7 +58,7 @@ tech flutter firebase maps
 https://mustafa-elzoghby.netlify.app/ 
 
 💼 LinkedIn  
-add your linkedin url  
+https://www.linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
 
 📧 Email  
 mustafaelzoghby7@gmail.com  
