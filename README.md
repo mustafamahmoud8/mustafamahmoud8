@@ -1,92 +1,98 @@
-<h1 align="center">Mustafa Elzoghby</h1><h3 align="center">
+<div align="center">Mustafa Elzoghby
+
 Software Engineer • Full Stack Developer • Flutter Developer
-</h3><p align="center">
-Building scalable applications, intelligent systems, and modern digital experiences.
-</p>---
 
-About Me
+Building scalable software solutions, modern mobile applications, and intelligent systems.
 
-I'm a Software Engineer passionate about creating high-performance mobile and web applications.
+"Portfolio" (https://mustafa-elzoghby.netlify.app) • "LinkedIn" (https://www.linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9) • "Email" (mailto:mustafaelzoghby7@gmail.com)
 
-My expertise spans Flutter, Full Stack Development, Backend Engineering, Database Design, and AI-Powered Systems.
+</div>---
 
-I focus on building production-ready software using clean architecture, scalable design patterns, and modern development practices.
+Who Am I
 
-What I Do
+Software Engineer with practical experience in Mobile Development, Full Stack Development, Backend Engineering, and AI-Powered Applications.
 
-- Develop Cross Platform Mobile Applications using Flutter
-- Build Scalable REST APIs using Node.js and ASP.NET Core
-- Design Database Architectures using MongoDB and SQL Server
-- Integrate AI Services and Recommendation Systems
-- Create Modern Responsive Frontend Applications using React.js
-- Lead Software Projects from Idea to Deployment
+I enjoy transforming ideas into production-ready products and building software that combines performance, scalability, maintainability, and exceptional user experience.
+
+Currently focused on creating modern applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, SQL Server, and AI technologies.
 
 ---
 
-Core Expertise
+Technical Expertise
 
-Mobile Engineering
+Mobile Development
 
-Flutter • Dart • Firebase
-
-State Management:
-Bloc • Cubit • Provider • Riverpod
-
-Local Storage:
-Hive • SharedPreferences
-
-Maps & Location:
-Google Maps • Geolocation
-
----
-
-Full Stack Development
-
-Frontend:
-React.js • Next.js • JavaScript • TypeScript
-
-Backend:
-Node.js • Express.js • ASP.NET Core
-
-API Development:
-REST APIs • JWT Authentication • Swagger
-
-Real-Time Systems:
-Socket.IO
+- Flutter
+- Dart
+- Firebase
+- Bloc
+- Cubit
+- Provider
+- Riverpod
+- Hive
+- SharedPreferences
+- Google Maps
+- Geolocation
 
 ---
 
-Database Engineering
+Frontend Engineering
 
-MongoDB
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-SQL Server
+---
 
-MySQL
+Backend Engineering
 
-Firebase Firestore
+- Node.js
+- Express.js
+- ASP.NET Core
+- REST APIs
+- JWT Authentication
+- Socket.IO
+- Swagger
 
-Database Design & Optimization
+---
+
+Database Systems
+
+- MongoDB
+- SQL Server
+- MySQL
+- Firebase Firestore
+- Database Design
+- Query Optimization
 
 ---
 
 Software Engineering
 
-Clean Architecture
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Agile Development
+- Git Workflow
+- Performance Optimization
+- Problem Solving
+- Scalable System Design
 
-SOLID Principles
+---
 
-Design Patterns
+Professional Highlights
 
-Scalable Systems
-
-Performance Optimization
-
-Problem Solving
-
-Agile Development
-
-Git Workflow
+- Team Leader of Outing App Graduation Project
+- Certified by ITI, MCIT Egypt, Udacity, and Route Academy
+- Experienced in Mobile Development, Full Stack Development, and Backend Engineering
+- Built applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, and SQL Server
+- Strong understanding of Clean Architecture, REST APIs, and Scalable System Design
+- Passionate about AI Integration and Modern Software Engineering Practices
 
 ---
 
@@ -96,93 +102,73 @@ Outing App
 
 AI Powered Leisure Planning System
 
-A smart platform that helps users discover places, manage budgets, explore offers, and generate intelligent outing plans through AI-powered recommendations.
+A smart platform that helps users discover places, manage budgets, explore offers, and generate intelligent outing plans using AI-powered recommendations.
 
-Responsibilities
+Key Features
+
+- AI-Powered Recommendations
+- Smart Budget Planning
+- Place Discovery System
+- Real-Time Community Features
+- Integrated AI Assistant
+- Smart Daily Trip Generation
+- Location & Maps Integration
+
+My Responsibilities
 
 - Team Leader
 - Mobile Development
 - Frontend Development
 - System Architecture
-- Deployment
+- Deployment & Integration
 
 Technologies
 
-Flutter
-
-Node.js
-
-MongoDB
-
-Socket.IO
-
-Google Maps
-
-Artificial Intelligence
+Flutter • Node.js • MongoDB • Socket.IO • Google Maps • Groq AI
 
 ---
 
-Professional Certifications
+Certifications
 
 Information Technology Institute (ITI)
 
-Front-End & Cross Platform Mobile Development Track
-
-Flutter Development Training
-
-MERN Stack Development
-
-PHP Development Stack
-
----
+- Front-End & Cross Platform Mobile Development Track (2024–2025)
+- Flutter Development Training (2023)
+- MERN Stack Development Training (2022)
+- PHP Development Stack Training (2022)
 
 MCIT Egypt & Udacity
 
-Professional Front-End Web Development Nanodegree
-
----
+- Professional Front-End Web Development Nanodegree
 
 Route Academy
 
-Flutter Development Diploma
+- Flutter Development Diploma
 
 ---
 
-GitHub Analytics
+Career Objective
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mustafamahmoud8&show_icons=true&count_private=true&theme=github_dark" />
-</p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamahmoud8&theme=github-dark-blue" />
-</p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafamahmoud8&layout=compact&theme=github_dark" />
-</p>---
-
-Career Interests
-
-Software Engineering
-
-Flutter Development
-
-Backend Development
-
-Full Stack Development
-
-System Design
-
-Artificial Intelligence Integration
-
-Cloud Applications
+Seeking opportunities where I can contribute to impactful products, grow as a Software Engineer, and work on challenging problems involving Mobile Applications, Backend Systems, Full Stack Development, and AI-Powered Solutions.
 
 ---
 
-Connect
+Contact
 
-LinkedIn
-www.linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
+📧 mustafaelzoghby7@gmail.com
 
-Portfolio
+📱 +20 109 342 1310
+
+💼 LinkedIn
+https://www.linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
+
+🌐 Portfolio
 https://mustafa-elzoghby.netlify.app
 
-Email
-mustafaelzoghby7@gmail.com
+📍 Egypt
+
+---
+
+<div align="center">Building impactful software one project at a time
+
+</div>
