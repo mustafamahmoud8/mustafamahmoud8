@@ -1,118 +1,184 @@
-<h1 align="center">Hi 👋, I'm Mustafa Mahmoud</h1>
-<h3 align="center">💻 Full-Stack Developer | 📱 Mobile Developer | 🚀 Problem Solver</h3>
+👨‍💻 Mustafa Elzoghby
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-mahmoud-4a38643b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mustafaelzoghby7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/mustafamahmoud8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+Software Engineer | Full Stack Developer | Flutter Developer
+
+«Building Scalable Applications & Intelligent Systems»
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-I'm a passionate **Full-Stack & Mobile Developer** with hands-on experience building web and mobile applications — from sleek frontends to robust backends and everything in between.
+Software Engineer with practical experience in Mobile Development, Full Stack Development, Backend Engineering, and AI-Powered Applications.
 
-- 💻 Building full-stack web apps with **React.js, Next.js, Node.js & PHP**
-- 📱 Developing cross-platform mobile apps with **Flutter & Dart**
-- 🗄️ Working with **MongoDB, MySQL & SQL** databases
-- 🔐 Implementing secure **JWT Authentication** & **REST APIs**
-- 💳 Integrating **payment gateways** like Paymob
-- 🚀 Deploying projects on **Vercel & Hostinger**
-- 📫 Reach me at: [mustafaelzoghby7@gmail.com](mailto:mustafaelzoghby7@gmail.com)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-mahmoud-4a38643b9/)
+I enjoy transforming ideas into production-ready products and building software that combines performance, scalability, maintainability, and exceptional user experience.
+
+Currently focused on developing modern applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, SQL Server, and AI technologies.
 
 ---
 
-## 🛠️ Tech Stack
+🔥 Current Focus
 
-### 🖥️ Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Services
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- AI-Powered Applications
+- Flutter Development
+- Full Stack Development
+- Backend Engineering
+- System Design
+- Clean Architecture
 
 ---
 
-## 🔥 What I Build
+🛠 Tech Stack
 
-| Area | Technologies |
-|------|-------------|
-| 🌐 Full Stack Web Apps | React.js, Next.js, Node.js, Express.js, PHP |
-| 📱 Mobile Apps | Flutter, Dart, Firebase |
-| 🔐 Auth Systems | JWT Authentication, Firebase Auth |
-| 🛒 E-commerce Platforms | Payment Gateway Integration (Paymob), Admin Dashboards |
-| 🗄️ Database Design | MongoDB, MySQL, NoSQL, SQL |
-| 🚀 Deployment | Vercel, Hostinger |
+📱 Mobile Development
+
+- Flutter
+- Dart
+- Firebase
+- Bloc
+- Cubit
+- Provider
+- Riverpod
+- Hive
+- SharedPreferences
+
+🌐 Frontend Development
+
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+⚙ Backend Development
+
+- Node.js
+- Express.js
+- ASP.NET Core
+- REST APIs
+- JWT Authentication
+- Socket.IO
+- Swagger
+
+🗄 Databases
+
+- MongoDB
+- SQL Server
+- MySQL
+- Firebase Firestore
+
+🔧 Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Figma
+- VS Code
 
 ---
 
-## 📊 GitHub Stats
+🏆 Professional Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafamahmoud8&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafamahmoud8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafamahmoud8&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+- Team Leader of Outing App Graduation Project
+- Certified by ITI, MCIT Egypt, Udacity, and Route Academy
+- Experienced in Mobile Development, Full Stack Development, and Backend Engineering
+- Built applications using Flutter, React.js, Node.js, ASP.NET Core, MongoDB, and SQL Server
+- Strong understanding of Clean Architecture, REST APIs, and Scalable System Design
+- Passionate about AI Integration and Modern Software Engineering Practices
 
 ---
 
-## 🤝 Let's Connect!
+🚀 Featured Project
 
-I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
+Outing App
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustafa-mahmoud-4a38643b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mustafaelzoghby7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+AI-Powered Leisure Planning System
+
+A smart platform that helps users discover places, manage budgets, explore offers, and generate intelligent outing plans using AI-powered recommendations.
+
+Key Features
+
+- AI Recommendations
+- Smart Budget Planning
+- Place Discovery System
+- Real-Time Community Features
+- Integrated AI Assistant
+- Smart Daily Trip Generation
+- Location & Maps Integration
+
+Technologies
+
+Flutter • Node.js • MongoDB • Socket.IO • Google Maps • Groq AI
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafamahmoud8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+📌 Featured Repositories
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
+🚀 Outing App
+
+AI-Powered Leisure Planning System
+
+📅 Evently
+
+Event Management Application
+
+🎬 Movie App
+
+Clean Architecture Flutter Application
+
+📰 News App
+
+News Aggregation Platform
+
+📖 Islami App
+
+Islamic Mobile Application
+
+---
+
+🎓 Certifications
+
+Information Technology Institute (ITI)
+
+- Front-End & Cross Platform Mobile Development Track (2024–2025)
+- Flutter Development Training (2023)
+- MERN Stack Development (2022)
+- PHP Development Stack (2022)
+
+MCIT Egypt & Udacity
+
+- Professional Front-End Web Development Nanodegree
+
+Route Academy
+
+- Flutter Development Diploma
+
+---
+
+🎯 Career Vision
+
+My goal is to build products that impact millions of users and contribute to innovative engineering teams working on scalable software and intelligent systems.
+
+---
+
+📫 Contact
+
+Email: mustafaelzoghby7@gmail.com
+
+Phone: +20 1093421310
+
+LinkedIn:
+https://linkedin.com/in/mustafa-mahmoud-elzoghby-4a38643b9
+
+Portfolio:
+https://mustafa-mahmoud-portfolio-dusky.vercel.app
+
+Location:
+Egypt
+
+---
+
+⭐ Building software that creates real impact
