@@ -25,8 +25,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafamahmoud8&label=Profile+Views&color=58a6ff&style=flat-square"/>
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/mustafamahmoud8?label=Followers&style=flat-square&color=58a6ff"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Focus-Full_Stack_Dev-brightgreen?style=flat-square"/>
