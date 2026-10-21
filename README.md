@@ -31,7 +31,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Focus-Full_Stack_Dev-brightgreen?style=flat-square"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Lives-Cairo_Egypt-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Cairo_🇪🇬-blue?style=flat-square"/>
 </p>
 
 </div>
@@ -110,6 +110,7 @@ const mustafa: Developer = {
 
 ### ☁️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -138,7 +139,7 @@ const mustafa: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafamahmoud8&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" width="90%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mustafamahmoud8&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -146,24 +147,20 @@ const mustafa: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafamahmoud8&theme=tokyo-night&hide_border=true&area=true&custom_title=Mustafa's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafamahmoud8&theme=tokyo-night&hide_border=true&area=true&custom_title=Mustafa%27s%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
 </div>
 
 ---
 
 ## 🎮 3D Contribution Calendar
 
-> *Auto-generated daily via GitHub Actions* ⚙️
-
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+  <img src="https://raw.githubusercontent.com/mustafamahmoud8/mustafamahmoud8/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-
-> *Auto-updated every 12 hours* 🔄
 
 <div align="center">
   <picture>
