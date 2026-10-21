@@ -1,38 +1,83 @@
-<h1 align="center">Hi 👋, I'm Mustafa Mahmoud</h1>
-<h3 align="center">💻 Full-Stack Developer | 📱 Mobile Developer | 🚀 Problem Solver</h3>
+<div align="center">
+
+# Hi 👋, I'm Mustafa Mahmoud
+
+### 🚀 Full-Stack Developer | 📱 Mobile Developer | 🧩 Problem Solver
 
 <p align="center">
+  <a href="https://mustafa-mahmoud.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/mustafa-mahmoud-4a38643b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/mustafa.elzoghby23" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/mouustafa_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:mustafaelzoghby7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/mustafamahmoud8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=mustafamahmoud8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🎯 | Achievement |
+|---|---|
+| 💼 | **Full-Stack & Mobile Developer** at [@Transpect](https://github.com/Transpect) |
+| 🌐 | Built and deployed **10+ production web & mobile apps** |
+| 💳 | Integrated **Paymob payment gateway** in real e-commerce systems |
+| 🔐 | Implemented **JWT Auth & Firebase Auth** across multiple platforms |
+| 🚀 | Deployed projects on **Vercel & Hostinger** with CI/CD pipelines |
+| 📱 | Developed cross-platform apps with **Flutter & Dart** |
+| 🗄️ | Designed scalable **databases** with MongoDB & MySQL |
+| 🌍 | Portfolio live at [mustafa-mahmoud.vercel.app](https://mustafa-mahmoud.vercel.app/) |
+
+</div>
+
+---
+
+## ✨ Highlights
+
+```text
+🏗️  Architecture     Full-Stack Web + Mobile (React, Next.js, Flutter)
+🔧  Backend          Node.js, Express.js, PHP — REST APIs & Auth Systems
+🗃️  Databases        MongoDB · MySQL · Firebase Firestore
+💳  Payments         Paymob Gateway Integration
+☁️  Deployment       Vercel · Hostinger · Docker
+📲  Mobile           Flutter (iOS & Android) with Firebase backend
+```
+
+---
+
+## 👨‍💻 About Me
 
 I'm a passionate **Full-Stack & Mobile Developer** with hands-on experience building web and mobile applications — from sleek frontends to robust backends and everything in between.
 
-- 💻 Building full-stack web apps with **React.js, Next.js, Node.js & PHP**
+- 🔭 Building full-stack web apps with **React.js, Next.js, Node.js & PHP**
 - 📱 Developing cross-platform mobile apps with **Flutter & Dart**
 - 🗄️ Working with **MongoDB, MySQL & SQL** databases
 - 🔐 Implementing secure **JWT Authentication** & **REST APIs**
 - 💳 Integrating **payment gateways** like Paymob
 - 🚀 Deploying projects on **Vercel & Hostinger**
 - 📫 Reach me at: [mustafaelzoghby7@gmail.com](mailto:mustafaelzoghby7@gmail.com)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mustafa-mahmoud-4a38643b9/)
+- 🌐 Portfolio: [mustafa-mahmoud.vercel.app](https://mustafa-mahmoud.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🖥️ Programming Languages
+### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -70,7 +115,7 @@ I'm a passionate **Full-Stack & Mobile Developer** with hands-on experience buil
 
 ---
 
-## 🔥 What I Build
+## 📊 What I Build
 
 | Area | Technologies |
 |------|-------------|
@@ -79,11 +124,11 @@ I'm a passionate **Full-Stack & Mobile Developer** with hands-on experience buil
 | 🔐 Auth Systems | JWT Authentication, Firebase Auth |
 | 🛒 E-commerce Platforms | Payment Gateway Integration (Paymob), Admin Dashboards |
 | 🗄️ Database Design | MongoDB, MySQL, NoSQL, SQL |
-| 🚀 Deployment | Vercel, Hostinger |
+| 🚀 Deployment | Vercel, Hostinger, Docker |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafamahmoud8&show_icons=true&theme=tokyonight&hide_border=true" alt="Mustafa's GitHub Stats" width="48%"/>
@@ -104,6 +149,12 @@ I'm always open to collaborating on interesting projects or discussing new oppor
   <a href="https://www.linkedin.com/in/mustafa-mahmoud-4a38643b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/mustafa.elzoghby23" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mouustafa_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="mailto:mustafaelzoghby7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -112,7 +163,5 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafamahmoud8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  ⭐ <strong>Thanks for visiting my profile! Feel free to explore my repositories.</strong> ⭐
 </p>
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories.**
