@@ -42,7 +42,7 @@
 
 ```typescript
 const mustafa: Developer = {
-  name:       "Mustafa Mahmoud Elzoghby",
+  name:       "Mustafa Mahmoud",
   location:   "Cairo, Egypt 🇪🇬",
   role:       "Full-Stack & Mobile Developer",
   company:    "@Transpect",
@@ -132,22 +132,6 @@ const mustafa: Developer = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mustafamahmoud8&theme=tokyonight&hide_border=true&fire=FF6B35&ring=58A6FF&currStreakLabel=58A6FF" width="70%" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafamahmoud8&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" width="90%" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafamahmoud8&theme=tokyo-night&hide_border=true&area=true&custom_title=Mustafa%27s%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
 </div>
 
 ---
