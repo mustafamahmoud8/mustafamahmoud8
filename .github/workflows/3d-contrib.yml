@@ -1,0 +1,29 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: mustafamahmoud8
+
+      - name: Commit & Push
+        run: |
+          git config user.email "mustafaelzoghby7@gmail.com"
+          git config user.name "mustafamahmoud8"
+          git add -A
+          git commit -m "📊 Update 3D contribution graph" || true
+          git push
