@@ -123,10 +123,6 @@ const mustafa: Developer = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafamahmoud8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafamahmoud8&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" alt="Top Languages"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=mustafamahmoud8&theme=tokyonight&hide_border=true&fire=FF6B35&ring=58A6FF&currStreakLabel=58A6FF" width="70%" alt="GitHub Streak"/>
